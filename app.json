@@ -1,0 +1,12 @@
+{
+  "name": "transition-square-box",
+  "displayName": "transition-square-box",
+  "expo": {
+    "name": "transition-square-box",
+    "slug": "transition-square-box",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
